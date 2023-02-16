@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ![Click on](https://thumbs.dreamstime.com/b/click-button-hand-pointer-clicking-here-web-isolated-website-finger-cursor-stock-vector-161010045.jpg)
-<img src="https://www.example.com/images/my-image.jpg" alt="My Image" width="300">
+<img src="https://thumbs.dreamstime.com/b/click-button-hand-pointer-clicking-here-web-isolated-website-finger-cursor-stock-vector-161010045.jpg" alt="My Image" width="300">
 
 
 Hi, I'm [Your Name], a software engineer with experience in web development and database management. I'm passionate about [insert your passions], and I'm always looking for new challenges and opportunities to learn.
