@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - # My Portfolio
 
 
-![Click on](https://thumbs.dreamstime.com/b/click-button-hand-pointer-clicking-here-web-isolated-website-finger-cursor-stock-vector-161010045.jpg)
 <img src="https://thumbs.dreamstime.com/b/click-button-hand-pointer-clicking-here-web-isolated-website-finger-cursor-stock-vector-161010045.jpg" alt="My Image" width="300">
 
 
