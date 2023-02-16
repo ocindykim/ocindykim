@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - # My Portfolio
 
 
-![Click on](https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fclick-button-hand-pointer-clicking-here-web-isolated-website-finger-cursor-stock-vector-161010045.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fclick-button-hand-pointer-clicking-here-web-isolated-website-finger-cursor-stock-vector-image161010045&tbnid=moSKlLPWatDIFM&vet=12ahUKEwiwycS8yJn9AhUGUN4KHWJXCwIQMygAegUIARDEAQ..i&docid=9XWwGLRe9HQERM&w=800&h=800&q=click%20on&ved=2ahUKEwiwycS8yJn9AhUGUN4KHWJXCwIQMygAegUIARDEAQ)
+![Click on]([https://github.com/ocindykim/ocindykim/blob/main/click.png)
 
 
 Hi, I'm [Your Name], a software engineer with experience in web development and database management. I'm passionate about [insert your passions], and I'm always looking for new challenges and opportunities to learn.
