@@ -4,9 +4,6 @@
 <!--
 **ocindykim/ocindykim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Click on](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi7x7p5b7.stackpathcdn.com%2Fcodrops%2Fwp-content%2Fuploads%2F2012%2F12%2FCSSClickEvents.jpg&imgrefurl=https%3A%2F%2Ftympanus.net%2Fcodrops%2F2012%2F12%2F17%2Fcss-click-events%2F&tbnid=zSp1kXZ8T3qAvM&vet=12ahUKEwjd0an8x5n9AhXIet4KHYlpCesQMygBegUIARC9AQ..i&docid=eDvm2ZvVEl8WaM&w=580&h=315&q=click%20on%20css&ved=2ahUKEwjd0an8x5n9AhXIet4KHYlpCesQMygBegUIARC9AQ)
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,6 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - # My Portfolio
+
+
+![Click on](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi7x7p5b7.stackpathcdn.com%2Fcodrops%2Fwp-content%2Fuploads%2F2012%2F12%2FCSSClickEvents.jpg&imgrefurl=https%3A%2F%2Ftympanus.net%2Fcodrops%2F2012%2F12%2F17%2Fcss-click-events%2F&tbnid=zSp1kXZ8T3qAvM&vet=12ahUKEwjd0an8x5n9AhXIet4KHYlpCesQMygBegUIARC9AQ..i&docid=eDvm2ZvVEl8WaM&w=580&h=315&q=click%20on%20css&ved=2ahUKEwjd0an8x5n9AhXIet4KHYlpCesQMygBegUIARC9AQ)
+
 
 Hi, I'm [Your Name], a software engineer with experience in web development and database management. I'm passionate about [insert your passions], and I'm always looking for new challenges and opportunities to learn.
 
