@@ -44,7 +44,7 @@ Hello! I am Gippeum Kim, a software engineer with expertise in bigdata analysis 
 Here are some of the projects I've worked on:
 
 ### ["Something to Drink: 한눈에 쏙 리뷰"](https://github.com/ocindykim/Finalproject_multicampus)
-<img src="..." alt="projectoverview" width="300">
+<img src="슬라이드7.PNG" alt="projectoverview" width="300">
 
 
 #### Overview
