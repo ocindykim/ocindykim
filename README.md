@@ -126,9 +126,27 @@ Technologies used: [BeautifulSoup, Selenium, KoNLPy, Highcharts, Python, Django,
 
 ### [데이터로 본 1인 가구](https://github.com/ocindykim/SemiProject_Multicampus)
 <div>
- <img src="슬라이드7.PNG" alt="projectoverview" width="800">
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드1.PNG" alt="project2overview" width="800">
 </div>
 <br>
+<div>
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드3.PNG" alt="projectbackground" width="500">
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드6.PNG" alt="projectbackground2" width="500">
+</div>
+<div>
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드9.PNG" alt="dataprocessing" width="500">
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드12.PNG" alt="dataprocessing2" width="500">
+</div>
+<div>
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드23.PNG" alt="projectbackground" width="500">
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드24.PNG" alt="projectbackground2" width="500">
+</div>
+<div>
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드20.PNG" alt="projectbackground" width="500">
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드25.PNG" alt="projectbackground2" width="500">
+</div>
+
+
 
 <!-- ### [Project Name](https://github.com/username/repo)
 
