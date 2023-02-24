@@ -126,27 +126,54 @@ Technologies used: [BeautifulSoup, Selenium, KoNLPy, Highcharts, Python, Django,
 
 ### [데이터로 본 1인 가구](https://github.com/ocindykim/SemiProject_Multicampus)
 <div>
- <img src="싹쓰리조_세미프로젝트ppt/슬라이드1.PNG" alt="project2overview" width="800">
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드1.JPG" alt="project2overview" width="800">
 </div>
 <br>
-<div>
- <img src="싹쓰리조_세미프로젝트ppt/슬라이드3.PNG" alt="projectbackground" width="500">
- <img src="싹쓰리조_세미프로젝트ppt/슬라이드6.PNG" alt="projectbackground2" width="500">
-</div>
-<div>
- <img src="싹쓰리조_세미프로젝트ppt/슬라이드9.PNG" alt="dataprocessing" width="500">
- <img src="싹쓰리조_세미프로젝트ppt/슬라이드12.PNG" alt="dataprocessing2" width="500">
-</div>
-<div>
- <img src="싹쓰리조_세미프로젝트ppt/슬라이드23.PNG" alt="projectbackground" width="500">
- <img src="싹쓰리조_세미프로젝트ppt/슬라이드24.PNG" alt="projectbackground2" width="500">
-</div>
-<div>
- <img src="싹쓰리조_세미프로젝트ppt/슬라이드20.PNG" alt="projectbackground" width="500">
- <img src="싹쓰리조_세미프로젝트ppt/슬라이드25.PNG" alt="projectbackground2" width="500">
-</div>
 
+#### Overview
+As part of a team, I analyzed the growing single-person household market and lifestyle patterns from various data sources, including Statistics Korea. I specifically utilized ARIMA model in R to predict the number of single-person households in the next five years, and explored and visualized the single-person household market by analyzing gender, age, consumption patterns, and average monthly income, etc.
+<br>
 
+- Project Background
+<div>
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드3.JPG" alt="projectbackground" width="500">
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드6.JPG" alt="projectbackground2" width="500">
+</div>
+- Data Pre-processing
+<div>
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드9.JPG" alt="dataprocessing" width="500">
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드12.JPG" alt="dataprocessing2" width="500">
+</div>
+- Data Visualization
+<div>
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드23.JPG" alt="visualization" width="500">
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드24.JPG" alt="visualization2" width="500">
+</div>
+<div>
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드20.JPG" alt="visualization3" width="500">
+ <img src="싹쓰리조_세미프로젝트ppt/슬라이드25.JPG" alt="visualization4" width="500">
+</div>
+<br>
+
+### [삼O카드 가맹점 기반 지역별 소비행태]
+<div>
+ <img src="1조_빅데이터분석자료/003.jpg" alt="project3overview" width="800">
+</div>
+<br>
+
+- Data pre-processing
+ <div>
+  <img src="1조_빅데이터분석자료/010.jpg" alt="data" width="300">
+  <img src="1조_빅데이터분석자료/010.jpg" alt="data2" width="300">
+  <img src="1조_빅데이터분석자료/019.jpg" alt="data3" width="300"> 
+ </div>
+ 
+- Data Visualization
+ <div>
+  <img src="1조_빅데이터분석자료/011.jpg" alt="datavisualization" width="300">
+  <img src="1조_빅데이터분석자료/015.jpg" alt="datavisualization2" width="300">
+  <img src="1조_빅데이터분석자료/024.jpg" alt="datavisualization3" width="300"> 
+ </div>
 
 <!-- ### [Project Name](https://github.com/username/repo)
 
@@ -161,8 +188,9 @@ Technologies used: [list of technologies]
 - Mention any positive feedback or recognition received for the project
 - Provide relevant metrics, such as number of users, engagemenet rate, and user feedback -->
 
-## 
 
 ## Contact
 
-You can reach me at ocindy_kim@naver.com or on [LinkedIn/Twitter/other social media platform].
+You can reach me at ocindy_kim@naver.com.
+
+Overall, my skilset and experience make me a strong cadidate for any role that requires expeertise in software engineering and data analysis. I am constantly learning and improving my skills, and I am eager to take on new challenges and opportunities for growth. Thank you for taking the time to review my portfolio, and I look forward to hearing from you soon. :)
