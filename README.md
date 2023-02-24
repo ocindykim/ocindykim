@@ -200,5 +200,5 @@ You can reach me at ocindy_kim@naver.com.
 <br>
 
 ##
-
+[Download my resume as a PDF](https://github.com/ocindykim/ocindykim/김기쁨_이력서.pdf)
 Overall, my skilset and experience make me a strong cadidate for any role that requires expeertise in software engineering and data analysis. I am constantly learning and improving my skills, and I am eager to take on new challenges and opportunities for growth. Thank you for taking the time to review my portfolio, and I look forward to hearing from you soon. :)
