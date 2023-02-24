@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Gippeum's Portfolio: a software engineer
 <!-- <img src="https://thumbs.dreamstime.com/b/click-button-hand-pointer-clicking-here-web-isolated-website-finger-cursor-stock-vector-161010045.jpg" alt="My Image" width="300">
  -->
-Hello, and welcome to my portfolio! I am Gippeum Kim, a software engineer with focus on bigdata analysis and web development. I graduated from the University of Wales, Aberystwyth with a degree in Marketing, and have since completed an AI/Bigdata analysis course through Multicampus. I am excited to share with you some of the projects I have worked on and the skills I have acquired throughout my career. I love chanllenging myself and new opportunities to learn. 
+Hello, and welcome to my portfolio! I am Gippeum Kim, a software engineer with focus on bigdata analysis and web development. I graduated from the University of Wales, Aberystwyth with a degree in Marketing, and have since completed an AI/Bigdata analysis course through Multicampus. I am excited to share with you some of the projects I have worked on and the skills I have acquired throughout my career. I love challenging myself and new opportunities to learn. 
 
 
 ## CONTACT 
@@ -36,7 +36,6 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 - JavaScript
 - Django
 - Bootstrap
-<br>
 
 ### Data Analysis and Visualization
 : My primary programming language is Python, and I have utilized its libaries such as Pandas, Matplotlib, and NLP for data analysis, web development and natual language processing. I am also experienced in utilizing Tableau and Highcharts dashboard and visualization tool, as well as supporting JavaScript-based data visualization.
@@ -45,14 +44,12 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 - Tableau
 - Excel
 - Highcharts
-<br>
 
-## Database
+### Database
 : I have experience in SQL, Oracle and MySQL for database creation, query writing and RDBMS.
 - SQL
 - Oracle
 - MySQL
-<br>
 
 ### Version Control and Collaboration
 I am proficinet in using GitHub and Sourcetree for version control and collaborative projects.
@@ -66,8 +63,10 @@ I am proficinet in using GitHub and Sourcetree for version control and collabora
 <br>
 
 ## WORK EXPERIENCE
-- 업무내용 (IceCubeLab, Gyeonggi, 2023)
-- 업무내용 (TeamKospa, Songdo, 2021)
+- IceCubeLab (Part-time, Gyeonggi, 2022.08 ~ Present)
+: Built an automated system to extract, organize and store image data
+- TeamKospa (Full-time, Songdo, 2020.08 ~ 2021.10)
+: Worked in the overseas sales department, communicated with international customers, managed proejcts and provided customized services by understanding the global market and establishing marketing strategies.
 <br>
 
 ## PROJECTS
@@ -139,16 +138,19 @@ As part of a team, I analyzed the growing single-person household market and lif
  <img src="싹쓰리조_세미프로젝트ppt/슬라이드3.JPG" alt="projectbackground" width="500">
  <img src="싹쓰리조_세미프로젝트ppt/슬라이드6.JPG" alt="projectbackground2" width="500">
 </div>
+
 - Data Pre-processing
 <div>
  <img src="싹쓰리조_세미프로젝트ppt/슬라이드9.JPG" alt="dataprocessing" width="500">
  <img src="싹쓰리조_세미프로젝트ppt/슬라이드12.JPG" alt="dataprocessing2" width="500">
 </div>
+
 - Data Visualization
 <div>
  <img src="싹쓰리조_세미프로젝트ppt/슬라이드23.JPG" alt="visualization" width="500">
  <img src="싹쓰리조_세미프로젝트ppt/슬라이드24.JPG" alt="visualization2" width="500">
 </div>
+
 <div>
  <img src="싹쓰리조_세미프로젝트ppt/슬라이드20.JPG" alt="visualization3" width="500">
  <img src="싹쓰리조_세미프로젝트ppt/슬라이드25.JPG" alt="visualization4" width="500">
@@ -160,6 +162,9 @@ As part of a team, I analyzed the growing single-person household market and lif
  <img src="1조_빅데이터분석자료/003.jpg" alt="project3overview" width="800">
 </div>
 <br>
+
+#### Overview
+As part of a team, I pre-processed consumption pattern data of Samsung card companies to identy differences in spending pattern by region. I analyszed the characteristics of various industries using industry-specific consumption patterns.
 
 - Data pre-processing
  <div>
@@ -192,5 +197,8 @@ Technologies used: [list of technologies]
 ## Contact
 
 You can reach me at ocindy_kim@naver.com.
+<br>
+
+##
 
 Overall, my skilset and experience make me a strong cadidate for any role that requires expeertise in software engineering and data analysis. I am constantly learning and improving my skills, and I am eager to take on new challenges and opportunities for growth. Thank you for taking the time to review my portfolio, and I look forward to hearing from you soon. :)
