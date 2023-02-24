@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Gippeum's Portfolio: a software engineer
 <!-- <img src="https://thumbs.dreamstime.com/b/click-button-hand-pointer-clicking-here-web-isolated-website-finger-cursor-stock-vector-161010045.jpg" alt="My Image" width="300">
  -->
-Hello! I am Gippeum Kim, a software engineer with expertise in bigdata analysis and web development. I am generally interested in [내용], and I love chanllenging myself and new opportunities to learn. [부가내용]
+Hello, and welcome to my portfolio! I am Gippeum Kim, a software engineer with focus on bigdata analysis and web development. I graduated from the University of Wales, Aberystwyth with a degree in Marketing, and have since completed an AI/Bigdata analysis course through Multicampus. I am excited to share with you some of the projects I have worked on and the skills I have acquired throughout my career. I love chanllenging myself and new opportunities to learn. 
 
 
 ## CONTACT 
@@ -29,19 +29,33 @@ Hello! I am Gippeum Kim, a software engineer with expertise in bigdata analysis 
 Here are some of the programming languages, frameworks, and tools I'm proficient in:
 <br>
 ### Web Development
+: I have experience in HTML & CSS for web page layout and desing composition, as well as JavaScript & Django for JavaScript-based responsive web design construction and web backend development. Additionally, I have worked with Bootstrap for dynamic UI function composition.
+
 - HTML
 - CSS
 - JavaScript
 - Django
 - Bootstrap
-- Python
-- SQL
+<br>
+
 ### Data Analysis and Visualization
+: My primary programming language is Python, and I have utilized its libaries such as Pandas, Matplotlib, and NLP for data analysis, web development and natual language processing. I am also experienced in utilizing Tableau and Highcharts dashboard and visualization tool, as well as supporting JavaScript-based data visualization.
+
 - R
 - Tableau
 - Excel
 - Highcharts
+<br>
+
+## Database
+: I have experience in SQL, Oracle and MySQL for database creation, query writing and RDBMS.
+- SQL
+- Oracle
+- MySQL
+<br>
+
 ### Version Control and Collaboration
+I am proficinet in using GitHub and Sourcetree for version control and collaborative projects.
 - GitHub
 - Sourcetree
 <br>
@@ -58,7 +72,7 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 
 ## PROJECTS
 Here are some of the projects I've worked on:
-### [Something to Drink: 한눈에 쏙 리뷰](https://github.com/ocindykim/Finalproject_multicampus)
+### [한눈에 쏙 리뷰](https://github.com/ocindykim/Finalproject_multicampus)
 <div>
  <img src="슬라이드7.PNG" alt="projectoverview" width="800">
 </div>
@@ -109,6 +123,12 @@ The project was divided into four main stages: (1) data collection, (2) data pro
 <br>
 
 Technologies used: [BeautifulSoup, Selenium, KoNLPy, Highcharts, Python, Django, etc.]
+
+### [데이터로 본 1인 가구](https://github.com/ocindykim/SemiProject_Multicampus)
+<div>
+ <img src="슬라이드7.PNG" alt="projectoverview" width="800">
+</div>
+<br>
 
 <!-- ### [Project Name](https://github.com/username/repo)
 
